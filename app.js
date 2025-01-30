@@ -6,7 +6,7 @@
 
 
 let listaNumerosSorteados = [];
-let multiplicador = 10;
+let multiplicador = 100;
 let secretNumber = numeroAleatorio();
 let countplay = 1;
 
