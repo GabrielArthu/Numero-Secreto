@@ -19,9 +19,8 @@ function mostrarNaTela(tag, text){
 init();
 
 
-function confito(){
-    return 1
-
+function MediaKeyStatusMap(){
+        console.log('correçao de conflitos')
 }
 
 
