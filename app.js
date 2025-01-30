@@ -17,13 +17,6 @@ function mostrarNaTela(tag, text){
 }
 
 init();
-
-
-function MediaKeyStatusMap(){
-        console.log('correçao de conflitos')
-}
-
-
 //Metodo botao chutar
 
  function verificarChute(){
