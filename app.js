@@ -19,6 +19,12 @@ function mostrarNaTela(tag, text){
 init();
 
 
+function confito(){
+    return 1
+
+}
+
+
 //Metodo botao chutar
 
  function verificarChute(){
